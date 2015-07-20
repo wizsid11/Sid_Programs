@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/1st Year Project Solution.opensdf
+/1st Year Project/Debug/1st Year Project.tlog
+*.log
+*.sdf
+*.suo
+/Debug
+/1st Year Project
+/x64/Debug
+*.txt
+*.vcxproj
+*.filters
+*.sln
+*.opensdf
